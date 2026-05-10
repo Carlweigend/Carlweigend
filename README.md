@@ -19,7 +19,7 @@
 [![](https://komarev.com/ghpvc/?username=Carlweigend&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](buymeacoffee.com/carlweigend) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carlweigend@gmail.com) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](shttps://buymeacoffee.com/carlweigend) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carlweigend@gmail.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
